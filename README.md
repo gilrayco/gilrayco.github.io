@@ -83,7 +83,7 @@
 
 # !Music!
 
-*spotify link here*
+_spotifyAlbum.html
 ---
 # KEEP YOURSELVES SAFE!!
 
