@@ -1,2 +1,2 @@
 # gilrayco.github.io
-Mary Elahnor Victoria A. Peralta
+*Mary Elahnor Victoria A. Peralta*
