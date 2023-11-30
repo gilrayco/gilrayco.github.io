@@ -1,7 +1,7 @@
 # Ride The Cyclone
 ***first repository*** of *gilrayco*
 <p align="right">
- *11/30/2023*
+ 11/30/2023
 </p>
 
 <p align="center">
