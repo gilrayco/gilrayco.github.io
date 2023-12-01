@@ -1,4 +1,4 @@
-# Ride The Cyclone
+# Ride The Cyclone!
 ***first repository*** of *gilrayco*
 <p align="right">
  11/30/2023
@@ -18,9 +18,11 @@
 > # 1. *Ocean O'Connell Rosenberg*
 > "Democracy rocks!" 
 > 
-> ![the most successful girl in town](https://static.wikia.nocookie.net/testthecyclone/images/2/2b/12002561_10153143539312469_597529194938551630_o.jpg/revision/latest/scale-to-width-down/156?cb=20230124140112)
+> ![the most successful girl in town](https://static.wikia.nocookie.net/testthecyclone/images/a/ab/F4cb209a8ccd5b6e541382366fe4bb91.jpg/revision/latest?cb=20230213232208)
 > 
-> Ocean is....
+> "Ocean was born into a family of far left-of-center humanists who moved to northern Saskatchewan to live a carbon free lifestyle. The hemp needlepoint sign above the household toilet read, 'If it's yellow, let it mellow. If it's brown, scoop it out with your hand and put it in the compost'. Yet in-between all the drum circles, Marxist parables, and cheese sandwiches made from human breast milk, Ocean could never shake the feeling she was the white sheep of her family. It was only at the age of 8 when she found amongst her parents' record collection an album called 'Up with People'. The cloying positivity of this pro-capitalist gaggle of teen crooners brought tears to her eyes. Perhaps the peppiest thing Haliburton has ever produced. High school president, Straight A student."
+>
+> ***Ocean O'Connell Rosenberg: The Most Successful Girl in Town***
 ---
 <p align="center">
  <3
@@ -29,9 +31,11 @@
 > # 2. *Noel Gruber*
 > "Being the only gay man in a small rural high school is kind of like having a laptop in the stone age. I mean, sure, you can have one, but there's nowhere to plug it in!"
 >
-> ![the most romantic boy in town](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGD9PBNut1Jf1Cnm6PQj3zAml9GbqeazX2YLXLUWmbTbMwD-ei1Ns8SaZUareVSZMtz8&usqp=CAU)
+> ![the most romantic boy in town](https://static.wikia.nocookie.net/testthecyclone/images/e/e6/Noel_Gruber-Kholby_Wardell1.png/revision/latest?cb=20221220123256)
 >
-> Noel is....
+> "Very early on in Noel's life, his mother realized two things... The second was his pension for all things nihilistic. While other children acted out Harry Potter, Noel acted out French new-wave cinema. In grade 7, during the Saint Cassian Christmas Nativity Pageant, Noel was suspended for suddenly breaking into an excerpt from 'Waiting for Godot. Aspiring iconoclast, enfant terrible."
+>
+> ***Noel Gruber: The Most Romantic Boy in Town***
 ---
 <p align="center">
  <3
@@ -40,9 +44,11 @@
 > # 3. *Constance Blackwood*
 > "Sorry."
 > 
-> ![the nicest girl in town](https://static.wikia.nocookie.net/testthecyclone/images/c/c6/12045308_10153143539302469_8888476314108003038_o.jpg/revision/latest/scale-to-width-down/127?cb=20230124134225)
+> ![the nicest girl in town](https://static.wikia.nocookie.net/testthecyclone/images/1/1b/Constance_Blackwood.jpeg/revision/latest/scale-to-width-down/350?cb=20221220120646)
 >
-> Constance is....
+> "The only honour Constance Blackwood was to receive in her short lifetime was 'Nicest Girl in Homeroom' three years in a row— an award she secretly threw in the dumpster behind her local Kentucky Fried Chicken on her way home. When the children of Saint Cassian signed Constance's yearbook they wrote things like, 'Wow, you seemed so... nice' or, 'I never really met you. You seemed... friendly' Those pages in Constance's yearbook were carefully removed with an Exacto knife and burned."
+>
+> ***Constance Blackwood: The Nicest Girl in Town***
 ---
 <p align="center">
  <3
@@ -51,20 +57,30 @@
 > # 4. *Mischa Bachinski*
 > "My gangster persona is just armor to conceal that I am naked child wandering the wilderness, holding in my hands my wounded, fragile heart."
 >
-> ![the angriest boy in town](https://static.wikia.nocookie.net/testthecyclone/images/b/b2/12002636_10153143539497469_9217616406587586514_o.jpg/revision/latest/scale-to-width-down/158?cb=20230124140112)
+> ![the angriest boy in town](https://static.wikia.nocookie.net/testthecyclone/images/3/3f/Mischa_Bachinski-Gus_Halper1.jpeg/revision/latest/scale-to-width-down/350?cb=20221220122312)
 >
-> Mischa is....
+> "Mischa was conceived in a little town outside Odesa in Ukraine by a factory worker named Tamara. His mother, after being part of the clean up crew in Chernobyl, was dying of prolonged exposure to Uranium. Wanting her son to be safe, she decided to put him up for adoption—forging his birth certificate, she claimed he was two years old, and was recently potty trained. When Mischa came to Canada, his adoptive parents were surprised to see their toddler had five o’clock shadow, and a slight trace of alcohol on his breath. They put him in the basement, and his adoptive mother would prepare food and leave it for him on the top of the stairs. On the rare occasion he would run into his new parents—the mother would weep, and the father would shoo him away like a horsefly. So began an inexhaustible rage. He turned to the last bastion of pure strength and masculinity in society: self-aggrandizing commercialized hip-hop."
+>
+> ***Mischa Bachinski: The Angriest Boy in Town***
 ---
 <p align="center">
  <3
 </p>
 
-> # 5. *Ricky Potts*
+> # 5. *Richard "Ricky" Potts*
 > "Ever since I was six years old, I knew I wasn't long for this world. Unlike the other kids, I was always in a place to face that realm called outer space. Thank you, Lady Marzipan. Thank you, Dame Judi Dench. It appears your loyal service is no longer necessary in this stratosphere. Game on."
 >
-> ![the most imaginative boy in town](https://static.wikia.nocookie.net/testthecyclone/images/f/f6/11229780_10153143539432469_1921353752221333699_o.jpg/revision/latest/scale-to-width-down/250?cb=20230124140112)
+> ![the most imaginative boy in town](https://static.wikia.nocookie.net/testthecyclone/images/a/a8/Ricky_Potts-Alex_Wyse1.png/revision/latest?cb=20221220161340)
 > 
-> Ricky is....
+> **Pre-2023**
+>
+> "Favorite ride: the Gravitron. Born with a rare degenerative disease, when Richard lost his power of speech, the Potts family took a vow of silence; usually communicating in a series of strange gestures that only they understood. The only time they interacted with one another was when they read comics, or fed the cats... they had fourteen cats. From the time he was six years old and his knees began to buckle, Ricky was treated to the most appalling cruelty humanity can muster, complete indifference. Far from growing bitter, Ricky developed an elaborate playground in his synapses, where became his own best friend."
+
+> **Post 2023**
+> 
+> "Favorite ride, the Gravitron. Born of a semi-renowned Pentecostal pastor, Richard, at a young age, toured the province with his father, spreading the good news: speaking in tongues, and the handling of their saw-scaled viper snake, JoJo. The bad news was, after witnessing JoJo give his father a lethal bit during a rousing sermon, Richard, thoroughly traumatized, lost his power of speech. Moving in with his grandparents who were collectively 180 years old, his life consisted of feeding their 19 cats and reading the comics he got for his birthday.  Richard’s grandparents, well meaning, but dotty with age, celebrated his eighth birthday every two weeks until he was seventeen. Patronized, pushed around, condescended to in high school.  Far from growing bitter, Richard developed an elaborate playground in his synapses where he became his own best friend."
+>
+> ***Richard Potts: The Most Imaginative Boy in Town***
 ---
 <p align="center">
  <3
@@ -73,9 +89,24 @@
 > # 6. *Jane Doe*
 > "When a lioness has children, she stops making love to the lion. The lion gets jealous—sometimes so jealous he eats the children. You'd think this would upset the lioness. Far from it. They make love again like the children never existed. I find that idea terrifying."
 > 
-> ![Penny?](https://static.wikia.nocookie.net/testthecyclone/images/5/53/Jane_Doe-Emily_Rohm1.png/revision/latest/scale-to-width/360?cb=20221220154931)
+> ![the most forgettable girl in town](https://static.wikia.nocookie.net/testthecyclone/images/5/53/Jane_Doe-Emily_Rohm1.png/revision/latest?cb=20221220154931)
 >
-> Jane Doe is the one unidentified body.... 
+> Little is known about Jane's previous life. She was a St. Cassian student, and went to the fair with the choir students. Jane died in the Cyclone accident, losing her head. This made her unidentifiable, and since no relatives came to claim her body, her name is unknown. She was buried as Jane Doe, and given a Christian funeral.
+>
+> ***Jane Doe: The Most Forgettable Girl in Town***
+---
+<p align="center">
+ <3
+</p>
+
+> # 7. *The Amazing Karnak*
+> "Hello, I am the amazing Karnak. I was designed to predict the exact time and place of someone's death, so you already know you're in for a good time."
+>
+> ![the amazing](https://static.wikia.nocookie.net/testthecyclone/images/9/9a/Karnak-Karl_Hamilton1.png/revision/latest/scale-to-width-down/333?cb=20221220125512)
+>
+> The Amazing Karnak, also known as simply Karnak, is a precognition machine designed to predict the cause, time, and place of someone's death. This was not his main function when he was in use at the Fall Fair, where he seems to have only told people basic fortunes which consisted of their lucky number, a vague statement about their future, and to go ride the Cyclone. This function, called "Family Fun Novelty Mode", was set up when he was sold to the Fair due to the disturbing nature of his main usage. He dies at the end of the show, having been killed by a rat named Virgil chewing through his wires.
+>
+> In the script, he is described as "a mechanical fortune-telling machine is revealed, circa 1920s penny arcade. The fortuneteller is an imposing figure with a majestic beard and glowing eyes."
 ---
 <p align="center">
  <3
@@ -83,9 +114,11 @@
 
 # !Music!
 
-_.html??
+*(( still working. idk how to add an album here ))*
 
 ---
 # KEEP YOURSELVES SAFE!!
 
-Sources: ....
+Sources: 
+- https://ridethecyclone.fandom.com/wiki/Ride_The_Cyclone_Wiki
+- https://en.wikipedia.org/wiki/Ride_the_Cyclone
