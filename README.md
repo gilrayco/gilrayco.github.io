@@ -10,7 +10,9 @@
  <3
 </p>
 
-![Ride The Cyclone Cover](https://github.com/gilrayco/gilrayco.github.io/assets/150888156/726946ca-e789-4bec-82f9-db2cc4c6f045)
+<p align="center">
+  <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/726946ca-e789-4bec-82f9-db2cc4c6f045">
+</p>
 
 >Ride The Cyclone is a musical (and book) by Jacob Richmond and Brooke Maxwell. It is the second installment in Richmond's "Uranium Teen Scream Trilogy" (even though only two have been written as of the date above) which all take place in Uranium City. 
 >
@@ -123,5 +125,5 @@
 # KEEP YOURSELVES SAFE!!
 
 Sources: 
-- https://ridethecyclone.fandom.com/wiki/Ride_The_Cyclone_Wiki
-- https://en.wikipedia.org/wiki/Ride_the_Cyclone
+- [rtc_wikifandom](https://ridethecyclone.fandom.com/wiki/Ride_The_Cyclone_Wiki)
+- [rtc_wikipedia](https://en.wikipedia.org/wiki/Ride_the_Cyclone)
