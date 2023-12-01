@@ -7,10 +7,10 @@
 
 <p align="center">
  <3
+</p>
 
 <p align="center">
   <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/726946ca-e789-4bec-82f9-db2cc4c6f045">
-<\p>
 
 >Ride The Cyclone is a musical (and book) by Jacob Richmond and Brooke Maxwell. It is the second installment in Richmond's "Uranium Teen Scream Trilogy" (even though only two have been written as of the date above) which all take place in Uranium City. 
 >
@@ -29,7 +29,7 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
 > # 2. *Noel Gruber*
 > "Being the only gay man in a small rural high school is kind of like having a laptop in the stone age. I mean, sure, you can have one, but there's nowhere to plug it in!"
@@ -43,7 +43,7 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
 > # 3. *Constance Blackwood*
 > "Sorry."
@@ -57,7 +57,7 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
 > # 4. *Mischa Bachinski*
 > "My gangster persona is just armor to conceal that I am naked child wandering the wilderness, holding in my hands my wounded, fragile heart."
@@ -71,7 +71,7 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
 > # 5. *Richard "Ricky" Potts*
 > "Ever since I was six years old, I knew I wasn't long for this world. Unlike the other kids, I was always in a place to face that realm called outer space. Thank you, Lady Marzipan. Thank you, Dame Judi Dench. It appears your loyal service is no longer necessary in this stratosphere. Game on."
@@ -91,7 +91,7 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
 > # 6. *Jane Doe*
 > "When a lioness has children, she stops making love to the lion. The lion gets jealous—sometimes so jealous he eats the children. You'd think this would upset the lioness. Far from it. They make love again like the children never existed. I find that idea terrifying."
@@ -105,7 +105,7 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
 > # 7. *Karnak*
 > "Hello, I am the amazing Karnak. I was designed to predict the exact time and place of someone's death, so you already know you're in for a good time."
@@ -119,7 +119,7 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
 > # 8. *Virgil*
 > "Meet my executioner, a rat I’ve named Virgil. For the last two years, Virgil has been steadily chewing on my power cable. In a little over an hour, Virgil shall chew his way through the rubber, biting down on two hundred volts of electricity, instantly killing us both. As there is nothing more base than death, I’ve decided for tonight’s concert, Virgil shall play the bass." +Karnak introducing Virgil+
@@ -133,9 +133,9 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
-> # 9. *Natalia Muruska "Talia" Molinska*
+> # 9. *Natalia Muruska "Talia" Bolinska*
 > "My divine Talia... When I look into your almond eyes, I do not see the boy I am, but the man I must become to possess you. I want to take all of the pain from your soul, and in the passion factory of my heart, transform it into functional joy. I want to take your hand by the Cheremosh River and with all Ukraine as witness, take you as my wife. And we shall sing and dance and drink... And then I shall whispеr in your ear, “Let rivers run wild or lеt them be damned.” My perfect Talia, I lay my masculinity at the altar of your maidenhood." +Mischa singing about Talia+
 >
 > <p align="center">
@@ -147,7 +147,7 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
 > # 10. *Father Marcus*
 > *no available quote*
@@ -161,13 +161,12 @@
 ---
 <p align="center">
  <3
-<\p>
+</p>
 
 # !Music!
 
 <p align="right">
 (( still working. idk how to add an album here ))
-<\p>
 
 ---
 # KEEP YOURSELVES SAFE!!
