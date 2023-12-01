@@ -1,5 +1,6 @@
 # Ride The Cyclone!
-***first repository*** of *gilrayco*
+***first repository*** of ***gilrayco*** (also practice!)
+
 ~~04/01/1691~~
 <p align="right">
  11/30/2023-12/01/2023
