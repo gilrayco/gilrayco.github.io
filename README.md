@@ -22,7 +22,7 @@
 > 
 > ![the most successful girl in town](https://static.wikia.nocookie.net/testthecyclone/images/a/ab/F4cb209a8ccd5b6e541382366fe4bb91.jpg/revision/latest?cb=20230213232208)
 > 
-> "Ocean was born into a family of far left-of-center humanists who moved to northern Saskatchewan to live a carbon free lifestyle. The hemp needlepoint sign above the household toilet read, 'If it's yellow, let it mellow. If it's brown, scoop it out with your hand and put it in the compost'. Yet in-between all the drum circles, Marxist parables, and cheese sandwiches made from human breast milk, Ocean could never shake the feeling she was the white sheep of her family. It was only at the age of 8 when she found amongst her parents' record collection an album called 'Up with People'. The cloying positivity of this pro-capitalist gaggle of teen crooners brought tears to her eyes. Perhaps the peppiest thing Haliburton has ever produced. High school president, Straight A student."
+> "Ocean was born into a family of far left-of-center humanists who moved to northern Saskatchewan to live a carbon free lifestyle. The hemp needlepoint sign above the household toilet read, 'If it's yellow, let it mellow. If it's brown, scoop it out with your hand and put it in the compost'. Yet in-between all the drum circles, Marxist parables, and cheese sandwiches made from human breast milk, Ocean could never shake the feeling she was the white sheep of her family. It was only at the age of 8 when she found amongst her parents' record collection an album called 'Up with People'. The cloying positivity of this pro-capitalist gaggle of teen crooners brought tears to her eyes. Perhaps the peppiest thing Haliburton has ever produced. She is her high school's president and Straight A student."
 >
 > ***Ocean O'Connell Rosenberg: The Most Successful Girl in Town***
 ---
@@ -82,7 +82,7 @@
 > 
 > "Favorite ride, the Gravitron. Born of a semi-renowned Pentecostal pastor, Richard, at a young age, toured the province with his father, spreading the good news: speaking in tongues, and the handling of their saw-scaled viper snake, JoJo. The bad news was, after witnessing JoJo give his father a lethal bit during a rousing sermon, Richard, thoroughly traumatized, lost his power of speech. Moving in with his grandparents who were collectively 180 years old, his life consisted of feeding their 19 cats and reading the comics he got for his birthday.  Richard’s grandparents, well meaning, but dotty with age, celebrated his eighth birthday every two weeks until he was seventeen. Patronized, pushed around, condescended to in high school.  Far from growing bitter, Richard developed an elaborate playground in his synapses where he became his own best friend."
 >
-> ***Richard Potts: The Most Imaginative Boy in Town***
+> ***Richard "Ricky" Potts: The Most Imaginative Boy in Town***
 ---
 <p align="center">
  <3
@@ -101,12 +101,14 @@
  <3
 </p>
 
-> # 7. *The Amazing Karnak*
+> # 7. *Karnak*
 > "Hello, I am the amazing Karnak. I was designed to predict the exact time and place of someone's death, so you already know you're in for a good time."
 >
 > ![the amazing](https://static.wikia.nocookie.net/testthecyclone/images/9/9a/Karnak-Karl_Hamilton1.png/revision/latest/scale-to-width-down/333?cb=20221220125512)
 >
 > The Amazing Karnak, also known as simply Karnak, is a precognition machine designed to predict the cause, time, and place of someone's death. This was not his main function when he was in use at the Fall Fair, where he seems to have only told people basic fortunes which consisted of their lucky number, a vague statement about their future, and to go ride the Cyclone. This function, called "Family Fun Novelty Mode", was set up when he was sold to the Fair due to the disturbing nature of his main usage. He dies at the end of the show, having been killed by a rat named Virgil chewing through his wires (and Virgil dies too).
+>
+> ***The Amazing Karnak***
 ---
 <p align="center">
  <3
