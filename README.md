@@ -1,5 +1,5 @@
 # Ride The Cyclone!
-***first repository*** of ***gilrayco*** (also practice!)
+***first repository*** of ***gilrayco***
 
 ~~{04/01/1691}~~
 <p align="right">
