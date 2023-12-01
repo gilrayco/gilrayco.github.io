@@ -20,7 +20,7 @@
 > # 1. *Ocean O'Connell Rosenberg*
 > "Democracy rocks!" 
 >
->  ![the most successful girl in town](https://static.wikia.nocookie.net/testthecyclone/images/a/ab/F4cb209a8ccd5b6e541382366fe4bb91.jpg/revision/latest?cb=20230213232208)
+>  ![the most successful girl in town](https://www.google.com/url?sa=i&url=https%3A%2F%2Fridethecyclone.fandom.com%2Fwiki%2FOcean_O%2527Connell_Rosenberg&psig=AOvVaw2XxeFLV0I3i5Ct9sTDGXQ-&ust=1701504614679000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIChyubk7YIDFQAAAAAdAAAAABAD)
 > 
 > "Ocean was born into a family of far left-of-center humanists who moved to northern Saskatchewan to live a carbon free lifestyle. The hemp needlepoint sign above the household toilet read, 'If it's yellow, let it mellow. If it's brown, scoop it out with your hand and put it in the compost'. Yet in-between all the drum circles, Marxist parables, and cheese sandwiches made from human breast milk, Ocean could never shake the feeling she was the white sheep of her family. It was only at the age of 8 when she found amongst her parents' record collection an album called 'Up with People'. The cloying positivity of this pro-capitalist gaggle of teen crooners brought tears to her eyes. Perhaps the peppiest thing Haliburton has ever produced. She is her high school's president and Straight A student."
 >
