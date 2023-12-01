@@ -10,7 +10,7 @@
  <3
 </p>
 
-![Ride The Cyclone book cover](![image](https://github.com/gilrayco/gilrayco.github.io/assets/150888156/d61b8eb9-ac1f-4e6c-b97e-383611be0b73)
+![Ride The Cyclone Cover]()
 
 >Ride The Cyclone is a musical (and book) by Jacob Richmond and Brooke Maxwell. It is the second installment in Richmond's "Uranium Teen Scream Trilogy" (even though only two have been written as of the date above) which all take place in Uranium City. 
 >
@@ -20,7 +20,7 @@
 > # 1. *Ocean O'Connell Rosenberg*
 > "Democracy rocks!" 
 >
->  ![the most successful girl in town](https://static.wikia.nocookie.net/testthecyclone/images/2/2b/12002561_10153143539312469_597529194938551630_o.jpg/revision/latest/scale-to-width-down/250?cb=20230124140112)
+>  ![the most successful girl in town]()
 > 
 > "Ocean was born into a family of far left-of-center humanists who moved to northern Saskatchewan to live a carbon free lifestyle. The hemp needlepoint sign above the household toilet read, 'If it's yellow, let it mellow. If it's brown, scoop it out with your hand and put it in the compost'. Yet in-between all the drum circles, Marxist parables, and cheese sandwiches made from human breast milk, Ocean could never shake the feeling she was the white sheep of her family. It was only at the age of 8 when she found amongst her parents' record collection an album called 'Up with People'. The cloying positivity of this pro-capitalist gaggle of teen crooners brought tears to her eyes. Perhaps the peppiest thing Haliburton has ever produced. She is her high school's president and Straight A student."
 >
@@ -33,7 +33,7 @@
 > # 2. *Noel Gruber*
 > "Being the only gay man in a small rural high school is kind of like having a laptop in the stone age. I mean, sure, you can have one, but there's nowhere to plug it in!"
 >
-> ![the most romantic boy in town](https://static.wikia.nocookie.net/testthecyclone/images/e/e6/Noel_Gruber-Kholby_Wardell1.png/revision/latest?cb=20221220123256)
+> ![the most romantic boy in town]()
 >
 > "Very early on in Noel's life, his mother realized two things... The second was his pension for all things nihilistic. While other children acted out Harry Potter, Noel acted out French new-wave cinema. In grade 7, during the Saint Cassian Christmas Nativity Pageant, Noel was suspended for suddenly breaking into an excerpt from 'Waiting for Godot. Aspiring iconoclast, enfant terrible."
 >
@@ -46,7 +46,7 @@
 > # 3. *Constance Blackwood*
 > "Sorry."
 > 
-> ![the nicest girl in town](https://static.wikia.nocookie.net/testthecyclone/images/1/1b/Constance_Blackwood.jpeg/revision/latest/scale-to-width-down/350?cb=20221220120646)
+> ![the nicest girl in town]()
 >
 > "The only honour Constance Blackwood was to receive in her short lifetime was 'Nicest Girl in Homeroom' three years in a row— an award she secretly threw in the dumpster behind her local Kentucky Fried Chicken on her way home. When the children of Saint Cassian signed Constance's yearbook they wrote things like, 'Wow, you seemed so... nice' or, 'I never really met you. You seemed... friendly' Those pages in Constance's yearbook were carefully removed with an Exacto knife and burned."
 >
@@ -59,7 +59,7 @@
 > # 4. *Mischa Bachinski*
 > "My gangster persona is just armor to conceal that I am naked child wandering the wilderness, holding in my hands my wounded, fragile heart."
 >
-> ![the angriest boy in town](https://static.wikia.nocookie.net/testthecyclone/images/3/3f/Mischa_Bachinski-Gus_Halper1.jpeg/revision/latest/scale-to-width-down/350?cb=20221220122312)
+> ![the angriest boy in town]()
 >
 > "Mischa was conceived in a little town outside Odesa in Ukraine by a factory worker named Tamara. His mother, after being part of the clean up crew in Chernobyl, was dying of prolonged exposure to Uranium. Wanting her son to be safe, she decided to put him up for adoption—forging his birth certificate, she claimed he was two years old, and was recently potty trained. When Mischa came to Canada, his adoptive parents were surprised to see their toddler had five o’clock shadow, and a slight trace of alcohol on his breath. They put him in the basement, and his adoptive mother would prepare food and leave it for him on the top of the stairs. On the rare occasion he would run into his new parents—the mother would weep, and the father would shoo him away like a horsefly. So began an inexhaustible rage. He turned to the last bastion of pure strength and masculinity in society: self-aggrandizing commercialized hip-hop."
 >
@@ -72,7 +72,7 @@
 > # 5. *Richard "Ricky" Potts*
 > "Ever since I was six years old, I knew I wasn't long for this world. Unlike the other kids, I was always in a place to face that realm called outer space. Thank you, Lady Marzipan. Thank you, Dame Judi Dench. It appears your loyal service is no longer necessary in this stratosphere. Game on."
 >
-> ![the most imaginative boy in town](https://static.wikia.nocookie.net/testthecyclone/images/a/a8/Ricky_Potts-Alex_Wyse1.png/revision/latest?cb=20221220161340)
+> ![the most imaginative boy in town]()
 > 
 > **Pre-2023**
 >
@@ -91,7 +91,7 @@
 > # 6. *Jane Doe*
 > "When a lioness has children, she stops making love to the lion. The lion gets jealous—sometimes so jealous he eats the children. You'd think this would upset the lioness. Far from it. They make love again like the children never existed. I find that idea terrifying."
 > 
-> ![the most forgettable girl in town](https://static.wikia.nocookie.net/testthecyclone/images/5/53/Jane_Doe-Emily_Rohm1.png/revision/latest?cb=20221220154931)
+> ![the most forgettable girl in town]()
 >
 > Little is known about Jane's previous life. She was a St. Cassian student, and went to the fair with the choir students. Jane died in the Cyclone accident, losing her head. This made her unidentifiable, and since no relatives came to claim her body, her name is unknown. She was buried as Jane Doe, and given a Christian funeral.
 >
@@ -104,7 +104,7 @@
 > # 7. *Karnak*
 > "Hello, I am the amazing Karnak. I was designed to predict the exact time and place of someone's death, so you already know you're in for a good time."
 >
-> ![the amazing](https://static.wikia.nocookie.net/testthecyclone/images/9/9a/Karnak-Karl_Hamilton1.png/revision/latest/scale-to-width-down/333?cb=20221220125512)
+> ![the amazing]()
 >
 > The Amazing Karnak, also known as simply Karnak, is a precognition machine designed to predict the cause, time, and place of someone's death. This was not his main function when he was in use at the Fall Fair, where he seems to have only told people basic fortunes which consisted of their lucky number, a vague statement about their future, and to go ride the Cyclone. This function, called "Family Fun Novelty Mode", was set up when he was sold to the Fair due to the disturbing nature of his main usage. He dies at the end of the show, having been killed by a rat named Virgil chewing through his wires (and Virgil dies too).
 >
