@@ -104,9 +104,7 @@
 >
 > ![the amazing](https://static.wikia.nocookie.net/testthecyclone/images/9/9a/Karnak-Karl_Hamilton1.png/revision/latest/scale-to-width-down/333?cb=20221220125512)
 >
-> *The Amazing Karnak, also known as simply Karnak, is a precognition machine designed to predict the cause, time, and place of someone's death. This was not his main function when he was in use at the Fall Fair, where he seems to have only told people basic fortunes which consisted of their lucky number, a vague statement about their future, and to go ride the Cyclone. This function, called "Family Fun Novelty Mode", was set up when he was sold to the Fair due to the disturbing nature of his main usage. He dies at the end of the show, having been killed by a rat named Virgil chewing through his wires (and Virgil dies too).*
->
-> *In the script, he is described as "a mechanical fortune-telling machine is revealed, circa 1920s penny arcade. The fortuneteller is an imposing figure with a majestic beard and glowing eyes."*
+> The Amazing Karnak, also known as simply Karnak, is a precognition machine designed to predict the cause, time, and place of someone's death. This was not his main function when he was in use at the Fall Fair, where he seems to have only told people basic fortunes which consisted of their lucky number, a vague statement about their future, and to go ride the Cyclone. This function, called "Family Fun Novelty Mode", was set up when he was sold to the Fair due to the disturbing nature of his main usage. He dies at the end of the show, having been killed by a rat named Virgil chewing through his wires (and Virgil dies too).
 ---
 <p align="center">
  <3
