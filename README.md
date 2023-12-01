@@ -83,7 +83,8 @@
 
 # !Music!
 
-_spotifyAlbum.html
+_.html??
+
 ---
 # KEEP YOURSELVES SAFE!!
 
