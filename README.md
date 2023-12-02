@@ -209,7 +209,7 @@
 
 # !Music!
 
-> {% include spotifyAlbum.html id="63JLhZdWWlSldDCyScZ3wB?si=ORhZFDNhR_KG-aSFGu3ncw" %}
+> {% include spotifyAlbum.html id="https://open.spotify.com/album/63JLhZdWWlSldDCyScZ3wB?si=Iu-0Ly1kQ0utOXZMOp5nTA" %}
 
 ---
 
