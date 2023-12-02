@@ -212,10 +212,11 @@
 <p align="right">
  (( still working. idk how to add an album here ))
 
+
 ---
 
 # KEEP YOURSELVES SAFE!!
 
-Sources: 
-- [rtc_wikifandom](https://ridethecyclone.fandom.com/wiki/Ride_The_Cyclone_Wiki)
-- [rtc_wikipedia](https://en.wikipedia.org/wiki/Ride_the_Cyclone)
+> Sources: 
+> - [rtc_wikifandom](https://ridethecyclone.fandom.com/wiki/Ride_The_Cyclone_Wiki)
+> - [rtc_wikipedia](https://en.wikipedia.org/wiki/Ride_the_Cyclone)
