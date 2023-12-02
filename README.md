@@ -209,7 +209,7 @@
 
 # !Music!
 
-> {% include spotifySong.html id="63JLhZdWWlSldDCyScZ3wB" %}
+> {% include spotifyAlbum.html id="63JLhZdWWlSldDCyScZ3wB" %}
 
 ---
 
