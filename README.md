@@ -23,17 +23,22 @@
 
 # !Characters!
 
-> # 1. *Ocean O'Connell Rosenberg*
-> "Democracy rocks!" 
+> <p align="left">
+ > # 1. *Ocean O'Connell Rosenberg*
+> <p align="left">
+ > "Democracy rocks!" 
 >
->  <p align="center">
-> <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/37d790b7-6468-4071-acaa-85e5091db431">
+> <p align="center">
+>  <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/37d790b7-6468-4071-acaa-85e5091db431">
 > 
-> "Ocean was born into a family of far left-of-center humanists who moved to northern Saskatchewan to live a carbon free lifestyle. The hemp needlepoint sign above the household toilet read, 'If it's yellow, let it mellow. If it's brown, scoop it out with your hand and put it in the compost'. Yet in-between all the drum circles, Marxist parables, and cheese sandwiches made from human breast milk, Ocean could never shake the feeling she was the white sheep of her family. It was only at the age of 8 when she found amongst her parents' record collection an album called 'Up with People'. The cloying positivity of this pro-capitalist gaggle of teen crooners brought tears to her eyes. Perhaps the peppiest thing Haliburton has ever produced. She is her high school's president and Straight A student." +Karnak's description of Ocean's past+
+> <p align="left">
+ > "Ocean was born into a family of far left-of-center humanists who moved to northern Saskatchewan to live a carbon free lifestyle. The hemp needlepoint sign above the household toilet read, 'If it's yellow, let it mellow. If it's brown, scoop it out with your hand and put it in the compost'. Yet in-between all the drum circles, Marxist parables, and cheese sandwiches made from human breast milk, Ocean could never shake the feeling she was the white sheep of her family. It was only at the age of 8 when she found amongst her parents' record collection an album called 'Up with People'. The cloying positivity of this pro-capitalist gaggle of teen crooners brought tears to her eyes. Perhaps the peppiest thing Haliburton has ever produced. She is her high school's president and Straight A student." +Karnak's description of Ocean's past+
 >
-> ***Ocean O'Connell Rosenberg: The Most Successful Girl in Town***
+> <p align="center">
+ > ***Ocean O'Connell Rosenberg: The Most Successful Girl in Town***
 
 ---
+
 <p align="center">
  <3
 </p>
