@@ -209,23 +209,7 @@
 
 # !Music!
 
->  {% include spotifyAlbum.html id="63JLhZdWWlSldDCyScZ3wB?si=ORhZFDNhR_KG-aSFGu3ncw" %}
->
-> .embed-spotify-list {
-  width: 300px;
-  height: 310px;
-  position: relative;
-  max-width: 100%;
-> }
-
-> .embed-spotify-list iframe, .embed-spotify object, .embed-spotify embed {
-  position: absolute;
-  width: 300px;
-  height: 310px;
-  top: 0;
-  left: 0;
-  max-width: 100%;
-> }
+> 
 
 ---
 
