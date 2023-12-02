@@ -23,8 +23,8 @@
 
 # !Characters!
 
-> # 1. *Ocean O'Connell Rosenberg*
->
+# 1. *Ocean O'Connell Rosenberg*
+
 > "Democracy rocks!"
 >
 > <p align="center">
@@ -34,8 +34,7 @@
 >
 > +Karnak's description of Ocean's past+
 >
-> ***Ocean O'Connell Rosenberg: The Most Successful Girl in Town***
->
+***Ocean O'Connell Rosenberg: The Most Successful Girl in Town***
 
 ---
 
