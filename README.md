@@ -209,7 +209,23 @@
 
 # !Music!
 
->  [![rtc album?](https://spotify-github-profile.vercel.app/api/view?uid=31m2j273wznstswt5sfnboiadjqm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31m2j273wznstswt5sfnboiadjqm&redirect=true)
+>  {% include spotifyAlbum.html id="63JLhZdWWlSldDCyScZ3wB?si=ORhZFDNhR_KG-aSFGu3ncw" %}
+>
+> .embed-spotify-list {
+  width: 300px;
+  height: 310px;
+  position: relative;
+  max-width: 100%;
+> }
+
+> .embed-spotify-list iframe, .embed-spotify object, .embed-spotify embed {
+  position: absolute;
+  width: 300px;
+  height: 310px;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+> }
 
 ---
 
