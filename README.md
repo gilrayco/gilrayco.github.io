@@ -209,7 +209,7 @@
 
 # !Music!
 
->  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/63JLhZdWWlSldDCyScZ3wB)
+>  [![rtc album?](https://spotify-github-profile.vercel.app/api/view?uid=31m2j273wznstswt5sfnboiadjqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31m2j273wznstswt5sfnboiadjqm&redirect=true)
 
 ---
 
