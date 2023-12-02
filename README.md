@@ -23,8 +23,8 @@
 
 # !Characters!
 
-## 1. *Ocean O'Connell Rosenberg*
-
+> # 1. *Ocean O'Connell Rosenberg*
+>
 > "Democracy rocks!"
 >
 > <p align="center">
