@@ -209,14 +209,14 @@
 
 # !Music!
 
-<p align="right">
- (( still working. idk how to add an album here ))
-
+>  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 ---
 
 # KEEP YOURSELVES SAFE!!
 
-> Sources: 
+> Sources:
+>
 > - [rtc_wikifandom](https://ridethecyclone.fandom.com/wiki/Ride_The_Cyclone_Wiki)
+>
 > - [rtc_wikipedia](https://en.wikipedia.org/wiki/Ride_the_Cyclone)
