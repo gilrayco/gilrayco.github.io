@@ -209,7 +209,7 @@
 
 # !Music!
 
->  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+>  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/63JLhZdWWlSldDCyScZ3wB)
 
 ---
 
