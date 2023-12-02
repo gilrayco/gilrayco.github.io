@@ -4,6 +4,7 @@
 ~~{04/01/1691}~~
 <p align="right">
  {11/30/2023} ~ {12/01/2023}
+</p>
 
 <p align="center">
  <3
@@ -13,9 +14,10 @@
  <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/726946ca-e789-4bec-82f9-db2cc4c6f045">
 </p>
 
-> Ride The Cyclone is a musical (and book) by Jacob Richmond and Brooke Maxwell. It is the second installment in Richmond's "Uranium Teen Scream Trilogy" (even though only two have been written as of the date above) which all take place in Uranium City.
-> 
-> This second story is about the recently deceased St. Cassian High School chamber choir of Uranium City. These six teens died after riding the doomed Fall Fair ride, "The Cyclone" and have been offered a second chance at life by The Amazing Karnak, a mechanical fortune teller. (the very mechanical fortune teller that told them to ride The Cyclone in the first place!) 
+> <p align="left">
+ > Ride The Cyclone is a musical (and book) by Jacob Richmond and Brooke Maxwell. It is the second installment in Richmond's "Uranium Teen Scream Trilogy" (even though only two have been written as of the date above) which all take place in Uranium City.
+> <p align="left">
+ > This second story is about the recently deceased St. Cassian High School chamber choir of Uranium City. These six teens died after riding the doomed Fall Fair ride, "The Cyclone" and have been offered a second chance at life by The Amazing Karnak, a mechanical fortune teller. (the very mechanical fortune teller that told them to ride The Cyclone in the first place!) 
 
 ---
 
