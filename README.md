@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/726946ca-e789-4bec-82f9-db2cc4c6f045">
+ <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/c2668a54-13c1-4e93-bf27-bc6a76000d3b" width="460" height="710"/>
 </p>
 
 >  Ride The Cyclone is a musical (and book) by Jacob Richmond and Brooke Maxwell. It is the second installment in Richmond's "Uranium Teen Scream Trilogy" (even though only two have been written as of the date above) which all take place in Uranium City.
@@ -143,7 +143,7 @@
 > "Hello, I am the amazing Karnak. I was designed to predict the exact time and place of someone's death, so you already know you're in for a good time."
 >
 > <p align="center">
-> <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/28a2a344-b5a7-44d8-9380-86273e17d9df">
+> <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/28a2a344-b5a7-44d8-9380-86273e17d9df" width="300" height="450"/>
 
 > The Amazing Karnak, also known as simply Karnak, is a precognition machine designed to predict the cause, time, and place of someone's death. This was not his main function when he was in use at the Fall Fair, where he seems to have only told people basic fortunes which consisted of their lucky number, a vague statement about their future, and to go ride the Cyclone. This function, called "Family Fun Novelty Mode", was set up when he was sold to the Fair due to the disturbing nature of his main usage. He dies at the end of the show, having been killed by a rat named Virgil chewing through his wires (and Virgil dies too).
 >
