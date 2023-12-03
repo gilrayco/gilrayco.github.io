@@ -197,7 +197,7 @@
 > <p align="center">
 > <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/92d12014-9c8e-4a4d-8cbe-0769743825f9">
 
-> Father Marcus is an unseen minor character from Ride the Cyclone He was the director of the St. Cassian Chamber Choir and has composed at least one song, "Fall Fair Suite". He is Irish, and died of a heart attack seven hours after the Cyclone accident.
+> Father Marcus is an unseen minor character from Ride the Cyclone He was the director of the St. Cassian Chamber Choir and has composed at least one song, "Fall Fair Suite" (which was replaced by "The Uranium Site" in the official album). He is Irish, and died of a heart attack seven hours after the Cyclone accident.
 >
 ***The Saint Cassian Chamber Choir Director***
 
