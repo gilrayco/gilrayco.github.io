@@ -199,7 +199,7 @@
 
 > Father Marcus is an unseen minor character from Ride the Cyclone He was the director of the St. Cassian Chamber Choir and has composed at least one song, "Fall Fair Suite". He is Irish, and died of a heart attack seven hours after the Cyclone accident.
 >
-***Saint Cassian Chamber Choir Director***
+***The Saint Cassian Chamber Choir Director***
 
 ---
 
@@ -220,5 +220,3 @@
 > - [rtc_wikifandom](https://ridethecyclone.fandom.com/wiki/Ride_The_Cyclone_Wiki)
 >
 > - [rtc_wikipedia](https://en.wikipedia.org/wiki/Ride_the_Cyclone)
->
-> - [how to add youtube video,spotify song/album/playlist](https://thisisa.blog/how-to-embed-media-github-pages)
