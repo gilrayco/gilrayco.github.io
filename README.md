@@ -3,7 +3,7 @@
 
 ~~{04/01/1691}~~
 <p align="right">
- {11/30/2023} ~ {12/03/2023}
+ {11/30/2023} ~ {12/11/2023}
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 > <p align="center">
 > <img src="https://github.com/gilrayco/gilrayco.github.io/assets/150888156/fc995411-b8fc-4199-b655-e6cd8c7543e4">
 
-> "The only honour Constance Blackwood was to receive in her short lifetime was 'Nicest Girl in Homeroom' three years in a row-- an award she secretly threw in the dumpster behind her local Kentucky Fried Chicken on her way home. When the children of Saint Cassian signed Constance's yearbook they wrote things like, 'Wow, you seemed so... nice' or, 'I never really met you. You seemed... friendly' Those pages in Constance's yearbook were carefully removed with an Exacto knife and burned."
+> "The only honour Constance Blackwood was to receive in her short lifetime was 'Nicest Girl in Homeroom' three years in a row-- an award she secretly threw in the dumpster behind her local Kentucky Fried Chicken on her way home. When the children of Saint Cassian signed Constance's yearbook they wrote things like, 'Wow, you seemed so... nice' or, 'I never really met you. You seemed... friendly' Those pages in Constance's yearbook were carefully removed with an Exacto knife and burnt."
 >
 > +Karnak's description of Constance's past+
 >
